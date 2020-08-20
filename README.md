@@ -6,6 +6,9 @@ A new Flutter project.
 <div align="center">
     <img src="/SS/Virtual Reality – 1.3.png" width="400px" height="750" /> 
 </div>
+<div align="center">
+    <img src="/SS/Virtual Reality 2.1.png" width="400px" height="750" /> 
+</div>
 
 ## Getting Started
 
